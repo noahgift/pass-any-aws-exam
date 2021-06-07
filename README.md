@@ -8,3 +8,7 @@ How to pass any
 * Do Official Sample questions
 * Do Unofficial Sample questions, learning platforms [like O'Reilly are a good choice](https://learning.oreilly.com/home/)
 * [Create your own Q/A](https://awscp.noahgift.com/questions-answers)
+
+## Watch Screencast
+
+[How to Pass any AWS EXAM](https://www.youtube.com/watch?v=KWZpShqQIxs)
